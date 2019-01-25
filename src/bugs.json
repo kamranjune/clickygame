@@ -2,97 +2,97 @@
   {
     "id": 1,
     "name": "Herbie",
-    "image": "/assets/images/sb1.jpg"
+    "image": "https://kamranjune.github.io/clickygame/assets/images/sb1.jpg"
 
   },
   {
     "id": 2,
     "name": "Beach Bug",
-    "image": "/assets/images/sb2.jpg"
+    "image": "https://kamranjune.github.io/clickygame/assets/images/sb2.jpg"
   
   },
   {
     "id": 3,
     "name": "Gold Bug",
-    "image":"/assets/images/sb3.jpg"
+    "image":"https://kamranjune.github.io/clickygame/assets/images/sb3.jpg"
 
   },
   {
     "id": 4,
     "name": "Yellow Bug",
-    "image": "/assets/images/sb4.jpg"
+    "image": "https://kamranjune.github.io/clickygame/assets/images/sb4.jpg"
    
   },
   {
     "id": 5,
     "name": "Pink Bug",
-    "image": "/assets/images/sb5.jpg"
+    "image": "https://kamranjune.github.io/clickygame/assets/images/sb5.jpg"
 
   },
   {
     "id": 6,
     "name": "Rusty Bug",
-    "image": "/assets/images/sb6.jpg"
+    "image": "https://kamranjune.github.io/clickygame/assets/images/sb6.jpg"
 
   },
   {
     "id": 7,
     "name": "Green Bug",
-    "image": "/assets/images/sb7.jpg"
+    "image": "https://kamranjune.github.io/clickygame/assets/images/sb7.jpg"
 
   },
   {
     "id": 8,
     "name": "Lime Bug",
-    "image": "/assets/images/sb8.jpg"
+    "image": "https://kamranjune.github.io/clickygame/assets/images/sb8.jpg"
     
   },
   {
     "id": 9,
     "name": "Red Bug",
-    "image": "/assets/images/sb9.jpg"
+    "image": "https://kamranjune.github.io/clickygame/assets/images/sb9.jpg"
 
   },
   {
     "id": 10,
     "name": "Basket Bug",
-    "image": "/assets/images/sb10.jpg"
+    "image": "https://kamranjune.github.io/clickygame/assets/images/sb10.jpg"
 
   },
   {
     "id": 11,
     "name": "Converti Bug",
-    "image": "/assets/images/sb11.jpg"
+    "image": "https://kamranjune.github.io/clickygame/assets/images/sb11.jpg"
  
   },
   {
     "id": 12,
     "name": "Blue Bug",
-    "image": "/assets/images/sb12.jpg"
+    "image": "https://kamranjune.github.io/clickygame/assets/images/sb12.jpg"
 
   },
   {
     "id": 13,
     "name": "Black Bug",
-    "image": "/assets/images/sb13.jpg"
+    "image": "https://kamranjune.github.io/clickygame/assets/images/sb13.jpg"
 
   },
   {
     "id": 14,
     "name": "Forest Bug",
-    "image": "/assets/images/sb14.jpg"
+    "image": "https://kamranjune.github.io/clickygame/assets/images/sb14.jpg"
 
   },
   {
     "id": 15,
     "name": "Flower Bug",
-    "image": "/assets/images/sb15.jpg"
+    "image": "https://kamranjune.github.io/clickygame/assets/images/sb15.jpg"
 
   },
   {
     "id": 16,
     "name": "White Bug",
-    "image": "/assets/images/sb16.jpg"
+    "image": "https://kamranjune.github.io/clickygame/assets/images/sb16.jpg"
 
   }
 

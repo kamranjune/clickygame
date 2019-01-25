@@ -99,7 +99,6 @@ class App extends Component {
         <Header/>
         <Score score={this.state.score} highScore={this.state.highScore}/>
         {/* <Title>Slug Bug Clicky Game</Title> */}
-        
         {this.state.bugs.map(bug => (
           <BugCard
             shuffleBug={this.shuffleBug}
