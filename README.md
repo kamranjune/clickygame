@@ -1,4 +1,4 @@
-##SLUG BUG CLICKY GAME!
+# SLUG BUG CLICKY GAME!
 Click on an Image to earnpoints but don't click on any more than once!
 
 Made with React Components.
@@ -7,7 +7,7 @@ All front end react deployed to git hub pageas, no back end node/express server.
 
 Therefore, only 1 package.json rather than 2, 1 for react view and 1 for node/express server.   The React package.json must be updated to allow deployment of a react view to github pages.
 
-##GitHub Pages Deployment Issues:
+# GitHub Pages Deployment Issues:
 
 Deployment to GH Pages requires some more steps than in the GH Pages Deployment instructions https://facebook.github.io/create-react-app/docs/deployment.  There are many GH Pages deployment issues that remain unclear, which would benefit others if Facebook would clarify:
 
@@ -15,8 +15,8 @@ Deployment to GH Pages requires some more steps than in the GH Pages Deployment 
 2.  in Bash you must $ git remote set-url origin https://github.com/username/appname.git (issues:  a. origin vs. master;  origin origin vs. origin master?  b. don't set origin to the deploy page https://username.github.io/appname that will not work. c. does the difference between the repo clone address for the initial git clone/ git init make a difference if it is the ssh or html address?  git remote -v displays where the urls are set.   cfvs. git remote show  and git ....set upstream.    A good explaination of set-url origin can be found at: https://help.github.com/articles/changing-a-remote-s-url/   
 
 
-Format: ![Alt Text](https://kamranjune.github.io/clickygame/assets/images/set-url-sshtohttps.JPG)
-Format: ![Alt Text](https://kamranjune.github.io/clickygame/assets/images/set-url-httpstossh.JPG)
+![set-url1](https://kamranjune.github.io/clickygame/assets/images/set-url-sshtohttps.JPG)
+![set-url2](https://kamranjune.github.io/clickygame/assets/images/set-url-httpstossh.JPG)
 
 
 )
