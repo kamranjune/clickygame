@@ -6,7 +6,7 @@ function BugCard(props) {
     <div className="card" onClick={() => { props.shuffleBug(props.id); 
     
     
-    } } className="shuffleBug">
+    } }>
       
      
       <div className="img-container">

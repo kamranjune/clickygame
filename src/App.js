@@ -3,7 +3,6 @@ import Header from "./components/Header";
 import Score from "./components/Score";
 import BugCard from "./components/BugCard";
 import Wrapper from "./components/Wrapper";
-import Title from "./components/Title";
 import bugs from "./bugs.json";
 import _ from 'lodash';
 
